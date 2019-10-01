@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 
 import Display from './components/Display';
-import styles from './App.css';
+import styles from './App.module.scss';
 
 class App extends PureComponent {
 
